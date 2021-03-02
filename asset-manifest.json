@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quant-website/static/css/main.53bed0f8.chunk.css",
+    "main.js": "/quant-website/static/js/main.fde2955d.chunk.js",
+    "main.js.map": "/quant-website/static/js/main.fde2955d.chunk.js.map",
+    "runtime-main.js": "/quant-website/static/js/runtime-main.7c2e324c.js",
+    "runtime-main.js.map": "/quant-website/static/js/runtime-main.7c2e324c.js.map",
+    "static/js/2.4b928bc2.chunk.js": "/quant-website/static/js/2.4b928bc2.chunk.js",
+    "static/js/2.4b928bc2.chunk.js.map": "/quant-website/static/js/2.4b928bc2.chunk.js.map",
+    "static/js/3.5253028c.chunk.js": "/quant-website/static/js/3.5253028c.chunk.js",
+    "static/js/3.5253028c.chunk.js.map": "/quant-website/static/js/3.5253028c.chunk.js.map",
+    "index.html": "/quant-website/index.html",
+    "static/css/main.53bed0f8.chunk.css.map": "/quant-website/static/css/main.53bed0f8.chunk.css.map",
+    "static/js/2.4b928bc2.chunk.js.LICENSE.txt": "/quant-website/static/js/2.4b928bc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c2e324c.js",
+    "static/js/2.4b928bc2.chunk.js",
+    "static/css/main.53bed0f8.chunk.css",
+    "static/js/main.fde2955d.chunk.js"
+  ]
+}
