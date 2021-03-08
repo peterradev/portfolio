@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/quant-website/static/css/main.c9f92e56.chunk.css",
-    "main.js": "/quant-website/static/js/main.fde2955d.chunk.js",
-    "main.js.map": "/quant-website/static/js/main.fde2955d.chunk.js.map",
+    "main.css": "/quant-website/static/css/main.7e91e911.chunk.css",
+    "main.js": "/quant-website/static/js/main.a0b3e024.chunk.js",
+    "main.js.map": "/quant-website/static/js/main.a0b3e024.chunk.js.map",
     "runtime-main.js": "/quant-website/static/js/runtime-main.7c2e324c.js",
     "runtime-main.js.map": "/quant-website/static/js/runtime-main.7c2e324c.js.map",
-    "static/js/2.4b928bc2.chunk.js": "/quant-website/static/js/2.4b928bc2.chunk.js",
-    "static/js/2.4b928bc2.chunk.js.map": "/quant-website/static/js/2.4b928bc2.chunk.js.map",
+    "static/js/2.39ee8e21.chunk.js": "/quant-website/static/js/2.39ee8e21.chunk.js",
+    "static/js/2.39ee8e21.chunk.js.map": "/quant-website/static/js/2.39ee8e21.chunk.js.map",
     "static/js/3.5253028c.chunk.js": "/quant-website/static/js/3.5253028c.chunk.js",
     "static/js/3.5253028c.chunk.js.map": "/quant-website/static/js/3.5253028c.chunk.js.map",
     "index.html": "/quant-website/index.html",
-    "static/css/main.c9f92e56.chunk.css.map": "/quant-website/static/css/main.c9f92e56.chunk.css.map",
-    "static/js/2.4b928bc2.chunk.js.LICENSE.txt": "/quant-website/static/js/2.4b928bc2.chunk.js.LICENSE.txt"
+    "static/css/main.7e91e911.chunk.css.map": "/quant-website/static/css/main.7e91e911.chunk.css.map",
+    "static/js/2.39ee8e21.chunk.js.LICENSE.txt": "/quant-website/static/js/2.39ee8e21.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7c2e324c.js",
-    "static/js/2.4b928bc2.chunk.js",
-    "static/css/main.c9f92e56.chunk.css",
-    "static/js/main.fde2955d.chunk.js"
+    "static/js/2.39ee8e21.chunk.js",
+    "static/css/main.7e91e911.chunk.css",
+    "static/js/main.a0b3e024.chunk.js"
   ]
 }
