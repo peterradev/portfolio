@@ -23,7 +23,7 @@ code {
 }
 
 h1, h2, p{
-  margin-top: 1.2rem;
+  /* margin-top: 1.2rem; */
 }
 
 
@@ -49,4 +49,27 @@ h1, h2, p{
 
 input:focus{
   outline: none;
+}
+
+
+.nav {
+  display: flex;
+  grid-column: auto;
+  justify-content: space-around;
+  background-color: rgb(65, 83, 236);
+}
+
+.nav h1{
+  /* padding-left: 1.4rem; */
+}
+
+.navLinks {
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration: none;
+  list-style-type: none;
+  /* padding: .6rem; */
+  /* padding-right: 1.4rem; */
 }

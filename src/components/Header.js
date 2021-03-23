@@ -1,10 +1,12 @@
 import PropTypes from 'prop-types'
+import Navbar from './Navbar'
 
 
 const Header = ({title}) => {
   return (
     <header>
-      <h1>{title}</h1> 
+      <Navbar />
+      {/* <h1>{title}</h1>  */}
     </header>
   )
 }
