@@ -3,12 +3,13 @@ import {Link} from 'react-router-dom'
 const Navbar = () => {
 
   const navStyle = {
-    color: 'white'
+    color: 'white',
+    textDecoration: 'none'
   }
 
   return (
     <nav className="nav">
-      <h1>Website</h1>
+      <h1><Link style={navStyle} to='/'>Website</Link></h1>
       <ul className="navLinks">
         <Link style={navStyle} to='/about'>
           <li>About</li>
