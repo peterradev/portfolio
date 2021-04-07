@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <nav className="nav">
-      <h1><Link style={navStyle} to='/'>Website</Link></h1>
+      <h1><Link style={navStyle} to='/portfolio'>Website</Link></h1>
       <ul className="navLinks">
         <Link style={navStyle} to='/about'>
           <li>About</li>
