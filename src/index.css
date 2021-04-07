@@ -11,15 +11,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #f4f4f4;
+  background-color: #000;
   text-align: center;
   font-size: 1.5rem;
+  color: #ff0dc2;
 
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  monospace;
 }
 
 h1, h2, p{
@@ -27,6 +28,10 @@ h1, h2, p{
 }
 
 
+.about p {
+  padding: 1.5rem;
+  color: #fff;
+}
 
 
 
@@ -55,23 +60,39 @@ input:focus{
 .nav {
   display: flex;
   grid-column: auto;
-  justify-content: space-around;
-  background-color: rgb(65, 83, 236);
+  width: 100%;
+  justify-content: space-between;
+  background-color: #ff0dc2;
+  position: relative;
+  padding: 0 10px 0 10px;
 }
 
 .nav h1{
-  /* padding-left: 1.4rem; */
+  /* margin-left: 1.5rem; */
+  padding-left: 1.4rem;
   text-decoration: none;
   list-style: none;
 }
 
+
+
+
+
 .navLinks {
+  margin-right: 1.5rem;
   display: flex;
-  width: 50%;
-  justify-content: space-around;
+  width: auto;
+  /* padding: 0 1.4rem 0 1.4rem; */
+  justify-content: space-between;
   align-items: center;
   text-decoration: none;
   list-style-type: none;
   /* padding: .6rem; */
   /* padding-right: 1.4rem; */
+}
+
+.navLinks li {
+
+  padding: 0 1.4rem 0 1.4rem;
+
 }

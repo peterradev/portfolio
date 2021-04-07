@@ -9,15 +9,17 @@ const Navbar = () => {
 
   return (
     <nav className="nav">
-      <h1><Link style={navStyle} to='/portfolio'>Website</Link></h1>
-      <ul className="navLinks">
-        <Link style={navStyle} to='/about'>
-          <li>About</li>
-        </Link>
-        <Link style={navStyle} to='/contact'>
-          <li>Contact</li>
-        </Link>
-      </ul>
+      {/* <div className="navContainer"> */}
+        <h1><Link style={navStyle} to='/portfolio'>Website</Link></h1>
+        <ul className="navLinks">
+          <Link style={navStyle} to='/about'>
+            <li>About</li>
+          </Link>
+          <Link style={navStyle} to='/contact'>
+            <li>Contact</li>
+          </Link>
+        </ul>
+      {/* </div> */}
     </nav>
   )
 }
