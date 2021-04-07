@@ -10,12 +10,12 @@ const Navbar = () => {
   return (
     <nav className="nav">
       {/* <div className="navContainer"> */}
-        <h1><Link style={navStyle} to='/portfolio'>Website</Link></h1>
+        <h1><Link style={navStyle} to='/portfolio/'>Website</Link></h1>
         <ul className="navLinks">
-          <Link style={navStyle} to='/about'>
+          <Link style={navStyle} to='/portfolio/about'>
             <li>About</li>
           </Link>
-          <Link style={navStyle} to='/contact'>
+          <Link style={navStyle} to='/portfolio/contact'>
             <li>Contact</li>
           </Link>
         </ul>
